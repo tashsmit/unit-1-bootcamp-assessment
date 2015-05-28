@@ -2,24 +2,29 @@
 
 1. Fork this repository. In your README, mark down your start time.
 
-1. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).
+2. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).
 
-1. Two `MyObject`s are equal when the names and the ages are equal.
+3. Two `MyObject`s are equal when the names and the ages are equal.
 
-1. Create a `MyObjectNode` class which extends `MyNode`.
+4. Create a `MyObjectNode` class which extends `MyNode`.
 
-1. Add setter methods, that is `setLeft` and `setRight` and `setData`.
+5. Add setter methods, that is `setLeft` and `setRight` and `setData`.
 
-1. Implement the abstract methods.
+6. Implement the abstract methods.
 
-1. Write a main method to test your code.
+7. Run the tests in [src/Tests.java](src/Tests.java).
 
-1. Update your README with your end time, and the total amount of time you think you spent on this assessment.
+8. Write a main method to test your code.
 
-1. Submit a pull request with all your code.
+9. Update your README with your end time, and the total amount of time you think you spent on this assessment.
 
-Start time:
+10. Submit a pull request with all your code.
 
-End time:
 
-Total time:
+Test Start time: Thu May 28, 7:00pm EST
+
+My End time: `<insert here>`
+
+Test End time: Fri May 29, 10:00pm EST
+
+Total time: 27 hours
