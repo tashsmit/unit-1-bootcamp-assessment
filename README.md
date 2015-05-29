@@ -1,5 +1,3 @@
-#start time: 7:36pm
-
 # unit-1-bootcamp
 
 1. Fork this repository. In your README, mark down your start time.
@@ -23,9 +21,9 @@
 10. Submit a pull request with all your code.
 
 
-Test Start time: Thu May 28, 7:00pm EST
+Test Start time: Thu May 28, 7:36pm EST
 
-My End time: `<insert here>`
+My End time: 8:07pm EST
 
 Test End time: Fri May 29, 10:00pm EST
 
